@@ -48,39 +48,35 @@ I'm always open to connecting with others who are passionate about **AI, machine
 
 ### PalNtry
 
-A web application that helps users reduce food waste by tracking pantry items and notifying them before products expire.
+  A web application that helps users reduce food waste by tracking pantry items and notifying them before products expire.
+  
+  **Tech Stack:** Nuxt.js, Node.js, JavaScript
 
-**Tech Stack:** Nuxt.js, Node.js, JavaScript
-
+--
 
 ### AI Receipt Analysis Pipeline 
 
-Built an AI-powered document processing pipeline that extracts information from receipts using multimodal large language models, validates extracted data, and generates spending insights.
+  Built an AI-powered document processing pipeline that extracts information from receipts using multimodal large language models, validates extracted data, and generates spending insights.
+  
+  **Tech Stack:** Python, OpenAI API, Jupyter Notebook
 
-**Tech Stack:** Python, OpenAI API, Jupyter Notebook
-
+--
 
 ### Tremor Stabilization Glove
 
-Collaborated with a multidisciplinary engineering team to prototype a wearable glove designed to reduce hand tremors using vibration motors and an accelerometer.
+  Collaborated with a multidisciplinary engineering team to prototype a wearable glove designed to reduce hand tremors using vibration motors and an accelerometer.
+  
+  **Tech Stack:** Arduino Nano, C++, Tinkercad
 
-**Tech Stack:** Arduino Nano, C++, Tinkercad
-
----
+--
 
 ### Nonprofit Alumni Platform
 
-Worked with a nonprofit organization to develop a website that organizes alumni information and streamlines outreach efforts for mentorship.
+  Worked with a nonprofit organization to develop a website that organizes alumni information and streamlines outreach efforts for mentorship.
+  
+  **Tech Stack:** HTML, CSS, JavaScript
 
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
-## GitHub Stats: 
-
-![Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmijinkala&show_icons=true)
-
----
+--
 
 ## Currently Learning
 
