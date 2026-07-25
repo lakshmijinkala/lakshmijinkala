@@ -1,14 +1,17 @@
-# Hi there, I'm Lakshmi Jinkala 👋
+# Hi there, I'm Lakshmi Jinkala 💕
 
-I'm a Computer Science Sophomore at **The University of Texas at Dallas** with a passion for building AI-powered applications and creating technology that solves real-world problems. I'm particularly interested in **artificial intelligence, software engineering, and full-stack development**, and I'm always looking for opportunities to expand my technical skills through hands-on projects and collaborative experiences.
+I'm a Computer Science student at **The University of Texas at Dallas** with interests in **machine learning, software engineering, and finance**. I'm currently exploring AI through **Break Through Tech's AI Program**, where I'm building a strong foundation in machine learning through technical projects, mentorship, and real-world experience. I'm excited to continue growing my skills through collaborative, industry-sponsored AI projects and hands-on software development.
+
+I'm always open to connecting with others who are passionate about **AI, machine learning, and software engineering**. Feel free to reach out if you'd like to connect or collaborate!
 
 ---
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 **Languages**
 
-<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://i.imgur.com/XSgpcs0.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -16,16 +19,20 @@ I'm a Computer Science Sophomore at **The University of Texas at Dallas** with a
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 </div>
 
-**Frameworks & Libraries**
 
 <div align="center">
-* <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-* <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+**Frameworks & Libraries**
+  
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 </div>
 
-**Tools & Technologies**
 
 <div align="center">
+
+**Tools & Technologies**
+  
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGF2ZnVlcHU2anc2a2VrcHZuaHloM3J1OTZ1c21kajdhM3JwMTJyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f0VbswUmSY6X1cBz4C/source.gif" width="100">
@@ -39,21 +46,21 @@ I'm a Computer Science Sophomore at **The University of Texas at Dallas** with a
 
 ## Featured Projects 
 
-### 🥫 PalNtry
+### PalNtry
 
 A web application that helps users reduce food waste by tracking pantry items and notifying them before products expire.
 
 **Tech Stack:** Nuxt.js, Node.js, JavaScript
 
 
-### 🤖 AI Receipt Analysis Pipeline
+### AI Receipt Analysis Pipeline 
 
 Built an AI-powered document processing pipeline that extracts information from receipts using multimodal large language models, validates extracted data, and generates spending insights.
 
 **Tech Stack:** Python, OpenAI API, Jupyter Notebook
 
 
-### 🧤 Tremor Stabilization Glove
+### Tremor Stabilization Glove
 
 Collaborated with a multidisciplinary engineering team to prototype a wearable glove designed to reduce hand tremors using vibration motors and an accelerometer.
 
@@ -61,7 +68,7 @@ Collaborated with a multidisciplinary engineering team to prototype a wearable g
 
 ---
 
-### 🌐 Nonprofit Alumni Platform
+### Nonprofit Alumni Platform
 
 Worked with a nonprofit organization to develop a website that organizes alumni information and streamlines outreach efforts for mentorship.
 
@@ -75,14 +82,14 @@ Worked with a nonprofit organization to develop a website that organizes alumni 
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Artificial Intelligence & Machine Learning Foundations
 * Data Structures & Algorithms
 
 ---
 
-## 🌸 Beyond Coding
+## Beyond Coding
 
 Outside of programming, I enjoy:
 
@@ -92,6 +99,8 @@ Outside of programming, I enjoy:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me!
 
-* <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">: https://www.linkedin.com/in/lakshmijinkala/ 
+<a href="https://www.linkedin.com/in/lakshmijinkala/">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"> 
+</a>
