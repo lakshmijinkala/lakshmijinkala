@@ -3,7 +3,7 @@ Hello! I'm Lakshmi Jinkala 💕
 </h1>
 
 <p align="center">
-**Computer Science @ UT Dallas • Machine Learning • Software Engineering**
+Computer Science @ UT Dallas • Machine Learning • Software Engineering
 </p>
 
 I'm a Computer Science student at **The University of Texas at Dallas** with interests in **machine learning, software engineering, and finance**. I'm currently exploring AI through **Break Through Tech's AI Program**.
