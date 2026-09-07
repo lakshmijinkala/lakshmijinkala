@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello! I'm Lakshmi Jinkala 💕
+Hello! I'm Lakshmi Jinkala
 </h1>
 
 <p align="center">
