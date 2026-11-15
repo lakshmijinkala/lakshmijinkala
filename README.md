@@ -25,7 +25,7 @@ I'm always open to connecting with others who are passionate about **AI, machine
 <img alt="JavaScript" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
 <img alt="HTML" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="70">
 <img alt="CSS" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="70">
-<img alt="Java" src="https://cdn-icons-gif.flaticon.com/17122/17122780.gif" width="70">
+<img alt="Java" src="https://cdn-icons-png.flaticon.com/512/1183/1183618.png" width="70">
 
 
 ### Frameworks & Libraries
